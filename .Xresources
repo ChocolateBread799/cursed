@@ -1,0 +1,43 @@
+! special
+*.foreground:   #ffffff
+*.background:   #161618
+*.cursorColor:  #ffffff
+
+*color0: #161618
+*color1: #252525
+*color2: #464646
+*color3: #525252
+*color4: #2a2a2a
+*color5: #b9b9b9
+*color6: #e3e3e3
+*color7: #f7f7f7
+*color8: #7c7c7c
+*color9: #999999
+*color10: #a0a0a0
+*color11: #8e8e8e
+*color12: #333333
+*color13: #686868
+*color14: #747474
+*color15: #5e5e5e
+
+*font: xft:Terminus (TTF):size=15:Bold:Italic
+
+*lineSpace:             5
+*letterSpace:           2
+*geometry:              50x20
+*internalBorder:        30
+*scrollBar:             false
+
+
+! xft fonts settings
+Xft.autohint:           0
+Xft.lcdfilter:          lcddefault
+Xft.hinting:            1
+Xft.hintstyle:          hintslight
+Xft.antialias:          1
+Xft.rgba:               rgb
+
+URxvt.perl-ext-common: config-reload
+
+URxvt.cursorBlink: 1
+URxvt.cursorUnderline: 1
