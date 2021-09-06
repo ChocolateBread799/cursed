@@ -1,6 +1,6 @@
 ### _REQUIRED_
-- _[https://wiki.archlinux.org/title/rxvt-unicode](URxvt Terminal)_
-- [https://github.com/ibhagwan/picom-ibhagwan-git](Picom)
-- [https://feh.finalrewind.org/](Feh)
-- [https://aur.archlinux.org/packages/terminus-font-ttf/](Terminus font)
-- _[http://openbox.org/wiki/Main_Page](Openbox)_
+- _[URxvt Terminal](https://wiki.archlinux.org/title/rxvt-unicode)_
+- [Picom](https://github.com/ibhagwan/picom-ibhagwan-git])
+- [Feh](https://feh.finalrewind.org/)
+- [Terminus font](https://aur.archlinux.org/packages/terminus-font-ttf/)
+- _[Openbox](http://openbox.org/wiki/Main_Page)_
